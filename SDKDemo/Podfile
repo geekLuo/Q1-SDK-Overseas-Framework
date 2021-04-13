@@ -1,0 +1,12 @@
+platform :ios, '9.0'
+
+source 'http://git.q1op.com/luohongqiang/glaspecmanager.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+use_frameworks!
+
+target 'SDKDemo' do
+
+  pod 'q1sdk_overseas','~>1.1.0'
+
+end

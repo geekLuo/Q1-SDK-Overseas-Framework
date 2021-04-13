@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>languages</key>
+	<array>
+		<dict>
+			<key>code</key>
+			<string>en</string>
+			<key>name</key>
+			<string>English</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>zh_hans</string>
+			<key>name</key>
+			<string>中文简体</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>zh_hant</string>
+			<key>name</key>
+			<string>中文繁体</string>
+		</dict>
+	</array>
+	<key>not_done</key>
+	<dict>
+		<key>Export LocalizedString</key>
+		<array>
+			<string>Export LocalizedString</string>
+			<string>中文简体</string>
+			<string>中文繁体</string>
+			<string>Français</string>
+		</array>
+	</dict>
+	<key>strings</key>
+	<dict>
+		<key>9100</key>
+		<array>
+			<string>Sign in as a tourist</string>
+			<string>游客登录</string>
+			<string>遊客登入</string>
+		</array>
+		<key>9101</key>
+		<array>
+			<string>Sign in with Facebook</string>
+			<string>FaceBook 登录</string>
+			<string>FaceBook 登入</string>
+		</array>
+		<key>9102</key>
+		<array>
+			<string>Sign in With Apple</string>
+			<string>苹果账号登录</string>
+			<string>苹果账号登入</string>
+		</array>
+		<key>9103</key>
+		<array>
+			<string>Binding</string>
+			<string>绑定</string>
+			<string>綁定</string>
+		</array>
+		<key>9104</key>
+		<array>
+			<string>Select Binding</string>
+			<string>选择绑定</string>
+			<string>選擇綁定</string>
+		</array>
+		<key>9105</key>
+		<array>
+			<string>Your login Facebook account may have existing roles. Do you want to delete existing roles and bind the current trial roles.</string>
+			<string>你登录的Facebook账号可能已有角色，是否删除已有角色并绑定当前试玩角色。</string>
+			<string>你登入的Facebook帳號可能已有角色，是否删除已有角色並綁定當前試玩角色。</string>
+		</array>
+		<key>9106</key>
+		<array>
+			<string>Your login Apple account may have existing roles. Do you want to delete existing roles and bind the current trial roles.</string>
+			<string>你登录的Apple账号可能已有角色，是否删除已有角色并绑定当前试玩角色。</string>
+			<string>你登入的Apple帳號可能已有角色，是否删除已有角色並綁定當前試玩角色。</string>
+		</array>
+		<key>9109</key>
+		<array>
+			<string>Facebook authorization failed</string>
+			<string>facebook授权失败</string>
+			<string>facebook授权失败</string>
+		</array>
+		<key>9107</key>
+		<array>
+			<string>Facebook bind failed</string>
+			<string>Facebook绑定失败</string>
+			<string>Facebook绑定失败</string>
+		</array>
+		<key>9108</key>
+		<array>
+			<string>Facebook Login canceled</string>
+			<string>Facebook登录取消</string>
+			<string>Facebook登录取消</string>
+		</array>
+		<key>9110</key>
+		<array>
+			<string>Network exception, binding failed</string>
+			<string>网络异常，绑定失败</string>
+			<string>网络异常，绑定失败</string>
+		</array>
+		<key>9111</key>
+		<array>
+			<string>Network exception, login failed</string>
+			<string>网络异常，登录失败</string>
+			<string>网络异常，登录失败</string>
+		</array>
+		<key>9001</key>
+		<array>
+			<string>Login</string>
+			<string>登录</string>
+			<string>登入</string>
+		</array>
+		<key>9002</key>
+		<array>
+			<string>Choose Login</string>
+			<string>选择登录方式</string>
+			<string>選擇登入筦道</string>
+		</array>
+		<key>9003</key>
+		<array>
+			<string>Connecting</string>
+			<string>登录中...</string>
+			<string>登入中...</string>
+		</array>
+		<key>9004</key>
+		<array>
+			<string>Account Login</string>
+			<string>账号登录</string>
+			<string>帳號登入</string>
+		</array>
+		<key>9005</key>
+		<array>
+			<string>Quickly Register</string>
+			<string>新用户注册</string>
+			<string>新用戶注册</string>
+		</array>
+		<key>9006</key>
+		<array>
+			<string>Account:</string>
+			<string>账号:</string>
+			<string>帳號:</string>
+		</array>
+		<key>9008</key>
+		<array>
+			<string>Enter the password please</string>
+			<string>请输入密码</string>
+			<string>請輸入密碼</string>
+		</array>
+		<key>9009</key>
+		<array>
+			<string>Enter the account please</string>
+			<string>请输入账号</string>
+			<string>請輸入帳號</string>
+		</array>
+		<key>9011</key>
+		<array>
+			<string>Landing game......</string>
+			<string>正在登录游戏......</string>
+			<string>正在登入遊戲......</string>
+		</array>
+		<key>9012</key>
+		<array>
+			<string>Switch Accounts</string>
+			<string>切换账号</string>
+			<string>切換帳號</string>
+		</array>
+		<key>9013</key>
+		<array>
+			<string>The user canceled the authorization request</string>
+			<string>用户取消了授权请求</string>
+			<string>用户取消了授权请求</string>
+		</array>
+		<key>9014</key>
+		<array>
+			<string>Authorization request failed</string>
+			<string>授权请求失败</string>
+			<string>授权请求失败</string>
+		</array>
+		<key>9015</key>
+		<array>
+			<string>The authorization request response is invalid</string>
+			<string>授权请求响应无效</string>
+			<string>授权请求响应无效</string>
+		</array>
+		<key>9016</key>
+		<array>
+			<string>The authorization request could not be processed</string>
+			<string>未能处理授权请求</string>
+			<string>未能处理授权请求</string>
+		</array>
+		<key>9017</key>
+		<array>
+			<string>The authorization request failed for unknown reasons</string>
+			<string>授权请求失败未知原因</string>
+			<string>授权请求失败未知原因</string>
+		</array>
+		<key>9020</key>
+		<array>
+			<string>Account Register</string>
+			<string>个性化账号注册</string>
+			<string>個性化帳號注册</string>
+		</array>
+		<key>9021</key>
+		<array>
+			<string>Enter 4-30 character account</string>
+			<string>请输入4-30位字符账号</string>
+			<string>請輸入4-30比特字元帳號</string>
+		</array>
+		<key>9022</key>
+		<array>
+			<string>Confirm password</string>
+			<string>请再次输入密码</string>
+			<string>請再次輸入密碼</string>
+		</array>
+		<key>9023</key>
+		<array>
+			<string>Bind the guest account on the equipment at present</string>
+			<string>新账号绑定当前设备上的试玩账号</string>
+			<string>新帳號綁定當前設備上的試玩帳號</string>
+		</array>
+		<key>9024</key>
+		<array>
+			<string>Enter the password twice inconsistent</string>
+			<string>两次输入密码不一致</string>
+			<string>两次输入密码不一致</string>
+		</array>
+		<key>9025</key>
+		<array>
+			<string>Enter verification code please</string>
+			<string>请输入验证码</string>
+			<string>請輸入驗證碼</string>
+		</array>
+		<key>9026</key>
+		<array>
+			<string>ok</string>
+			<string>确定</string>
+			<string>確定</string>
+		</array>
+		<key>9027</key>
+		<array>
+			<string>Reacquire</string>
+			<string>重新获取</string>
+			<string>重新獲取</string>
+		</array>
+		<key>9028</key>
+		<array>
+			<string>seconds</string>
+			<string>秒</string>
+			<string>秒</string>
+		</array>
+		<key>9029</key>
+		<array>
+			<string>Password length of 6 to 16, can be a combination of alphanumeric characters!</string>
+			<string>密码长度为6～16位字母、数字或标点字符的组合</string>
+			<string>密碼長度為6～16比特字母、數位或標點字元的組合</string>
+		</array>
+		<key>9030</key>
+		<array>
+			<string>The length of the password is 6~16 bit letters, numbers or punctuation characters</string>
+			<string>密码长度为6～16位字母、数字或标点字符</string>
+			<string>密碼長度為6～16比特字母、數位或標點字元</string>
+		</array>
+		<key>9031</key>
+		<array>
+			<string>Please enter a password with a length of 6~16 bit letters, numbers or punctuation characters</string>
+			<string>请输入密码,长度为6～16位字母、数字或标点字符</string>
+			<string>請輸入密碼，長度為6～16比特字母、數位或標點字元</string>
+		</array>
+		<key>9032</key>
+		<array>
+			<string>Warm Tips</string>
+			<string>温馨提示</string>
+			<string>溫馨提示</string>
+		</array>
+		<key>9033</key>
+		<array>
+			<string>Tourist</string>
+			<string>游客</string>
+			<string>遊客</string>
+		</array>
+		<key>9034</key>
+		<array>
+			<string>Tourists login can not enjoy the security services we provide. To ensure the safety of your funds, we recommend that you register and bind your existing account.</string>
+			<string>游客登录无法享受我们提供的安全保障服务。为保证您的资金安全，建议您注册并绑定设备现有账号。</string>
+			<string>遊客登錄無法享受我們提供的安全保障服務。為保證您的資金安全，建議您注册並綁定設備現有帳號。</string>
+		</array>
+		<key>9035</key>
+		<array>
+			<string>Register And Bind</string>
+			<string>注册并绑定</string>
+			<string>注册并绑定</string>
+		</array>
+		<key>1000</key>
+		<array>
+			<string>Parameter is incorrect</string>
+			<string>参数不正确</string>
+			<string>參數不正確</string>
+		</array>
+		<key>1001</key>
+		<array>
+			<string>Login successful</string>
+			<string>登录成功</string>
+			<string>登入成功</string>
+		</array>
+		<key>1002</key>
+		<array>
+			<string>Signature is incorrect</string>
+			<string>签名不正确</string>
+			<string>簽名不正確</string>
+		</array>
+		<key>1003</key>
+		<array>
+			<string>Your device time is not accurate, please calibrate first</string>
+			<string>您的设备时间不准确，请先校准</string>
+			<string>您的设备时间不准确，请先校准</string>
+		</array>
+		<key>1004</key>
+		<array>
+			<string>Account, IP, computer hardware was titlet</string>
+			<string>账号、IP、计算机硬件被封号</string>
+			<string>帳號、IP、電腦硬體被封號</string>
+		</array>
+		<key>1005</key>
+		<array>
+			<string>Abnormal account login</string>
+			<string>账号异常登录</string>
+			<string>帳號异常登入</string>
+		</array>
+		<key>1006</key>
+		<array>
+			<string>User name or password is incorrect</string>
+			<string>用户名或密码不正确</string>
+			<string>用戶名或密碼不正確</string>
+		</array>
+		<key>1007</key>
+		<array>
+			<string>Too many attempts for username and password. Please try again in a few minutes</string>
+			<string>用户名密码尝试次数过多，请稍候几分钟再试</string>
+			<string>用戶名密碼嘗試次數過多，請稍候幾分鐘再試</string>
+		</array>
+		<key>1008</key>
+		<array>
+			<string>Account has been locked, please turn off the lock on the phone pass</string>
+			<string>账号已被锁定，请在手机通行证上操作关闭锁定</string>
+			<string>帳號已被鎖定，請在手機通行證上操作關閉鎖定</string>
+		</array>
+		<key>1009</key>
+		<array>
+			<string>Account closed password login, please use dynamic password login</string>
+			<string>账号关闭了密码登录，请使用动态密码登录</string>
+			<string>帳號關閉了密碼登入，請使用動態密碼登入</string>
+		</array>
+		<key>1010</key>
+		<array>
+			<string>Account closed dynamic password login, please use the account password login</string>
+			<string>账号关闭了动态密码登录，请使用账号密码登录</string>
+			<string>帳號關閉了動態密碼登入，請使用帳號密碼登入</string>
+		</array>
+		<key>1011</key>
+		<array>
+			<string>The format of the account name entered is incorrect</string>
+			<string>您输入的账号名格式不正确</string>
+			<string>您輸入的帳號名格式不正確</string>
+		</array>
+		<key>1012</key>
+		<array>
+			<string>Old account does not exist</string>
+			<string>老账号不存在</string>
+			<string>老帳號不存在</string>
+		</array>
+		<key>1013</key>
+		<array>
+			<string>Has bound the account, can not be bound</string>
+			<string>移动账号不存在，无法绑定</string>
+			<string>移動帳號不存在，無法綁定</string>
+		</array>
+		<key>1014</key>
+		<array>
+			<string>There are already other demo accounts bound to this old account</string>
+			<string>已经有其它试玩账号绑定了此老账号</string>
+			<string>已經有其它試玩帳號綁定了此老帳號</string>
+		</array>
+		<key>1015</key>
+		<array>
+			<string>Access to open user information failed. Please login again</string>
+			<string>获取开放用户信息失败，请重新登录</string>
+			<string>获取开放用户信息失败，请重新登录</string>
+		</array>
+		<key>1016</key>
+		<array>
+			<string>Failed to verify open user information. Please login again</string>
+			<string>校验开放用户信息失败，请重新登录</string>
+			<string>校验开放用户信息失败，请重新登录</string>
+		</array>
+		<key>1017</key>
+		<array>
+			<string>The account does not exist and cannot be bound</string>
+			<string>账号不存在，无法绑定</string>
+			<string>账号不存在，无法绑定</string>
+		</array>
+		<key>1018</key>
+		<array>
+			<string>Account has been bound</string>
+			<string>账号已经绑定过</string>
+			<string>账号已经绑定过</string>
+		</array>
+		<key>1019</key>
+		<array>
+			<string>Binding existing accounts is not supported</string>
+			<string>不支持绑定已有账号</string>
+			<string>不支持绑定已有账号</string>
+		</array>
+		<key>1020</key>
+		<array>
+			<string>Binding failure</string>
+			<string>绑定失败</string>
+			<string>绑定失败</string>
+		</array>
+		<key>1021</key>
+		<array>
+			<string>Binding success</string>
+			<string>绑定成功</string>
+			<string>绑定成功</string>
+		</array>
+		<key>1098</key>
+		<array>
+			<string>Login failed</string>
+			<string>登录失败</string>
+			<string>登入失敗</string>
+		</array>
+		<key>2001</key>
+		<array>
+			<string>Sent successfully</string>
+			<string>发送成功</string>
+			<string>發送成功</string>
+		</array>
+		<key>2004</key>
+		<array>
+			<string>Phone number format is incorrect</string>
+			<string>手机号格式不正确</string>
+			<string>手機號格式不正確</string>
+		</array>
+		<key>2006</key>
+		<array>
+			<string>This phone number has been registered pass</string>
+			<string>此手机号码已经注册过通行证</string>
+			<string>此手機號碼已經注册過通行證</string>
+		</array>
+		<key>2005</key>
+		<array>
+			<string>Sorry, you get Captcha too many today</string>
+			<string>对不起，您今日获取验证码的次数过多</string>
+			<string>對不起，您今日獲取驗證碼的次數過多</string>
+		</array>
+		<key>3001</key>
+		<array>
+			<string>Registered successfully</string>
+			<string>注册成功</string>
+			<string>注册成功</string>
+		</array>
+		<key>3006</key>
+		<array>
+			<string>Your IP has registered too many users in a day, please register later</string>
+			<string>您的IP在近一天内注册用户数过多，请稍候再注册</string>
+			<string>您的IP在近一天內注册用戶數過多，請稍候再注册</string>
+		</array>
+		<key>3007</key>
+		<array>
+			<string>The password is too simple, please re-enter one</string>
+			<string>该密码太简单，请重新输入一个</string>
+			<string>該密碼太簡單，請重新輸入一個</string>
+		</array>
+		<key>3008</key>
+		<array>
+			<string>Registration information is incomplete! registration failed</string>
+			<string>注册信息不完整！注册失败</string>
+			<string>注册資訊不完整！注册失敗</string>
+		</array>
+		<key>3009</key>
+		<array>
+			<string>ID card registration account number too much</string>
+			<string>身份证注册账号数量太多</string>
+			<string>身份證註冊帳號數量太多</string>
+		</array>
+		<key>3010</key>
+		<array>
+			<string>Username already exists, please re-enter</string>
+			<string>用户名已经存在，请重新输入</string>
+			<string>用戶名已經存在，請重新輸入</string>
+		</array>
+		<key>5009</key>
+		<array>
+			<string>Enter the wrong number of SMS password too many, please obtain again</string>
+			<string>短信密码输入错误次数过多，请重新获取</string>
+			<string>簡訊密碼輸入錯誤次數過多，請重新獲取</string>
+		</array>
+		<key>3012</key>
+		<array>
+			<string>Verification Code has expired, please obtain again</string>
+			<string>验证码已失效，请重新获取</string>
+			<string>驗證碼已失效，請重新獲取</string>
+		</array>
+		<key>5010</key>
+		<array>
+			<string>SMS password has expired, please obtain again</string>
+			<string>短信密码已过期，请再次获取</string>
+			<string>短信密码已过期，请再次获取</string>
+		</array>
+		<key>5011</key>
+		<array>
+			<string>The SMS password you entered is incorrect. Please try again</string>
+			<string>您输入的短信密码不正确，请重新输入</string>
+			<string>您輸入的簡訊密碼不正確，請重新輸入</string>
+		</array>
+		<key>3014</key>
+		<array>
+			<string>Mobile account does not exist, can not be bound</string>
+			<string>移动账号不存在，无法绑定</string>
+			<string>移動帳號不存在，無法綁定</string>
+		</array>
+		<key>3098</key>
+		<array>
+			<string>registration failed</string>
+			<string>注册失败</string>
+			<string>注册失敗</string>
+		</array>
+		<key>6001</key>
+		<array>
+			<string>Fill in the wrong password format</string>
+			<string>您填写的密码格式有误</string>
+			<string>您填寫的密碼格式有誤</string>
+		</array>
+		<key>4006</key>
+		<array>
+			<string>User does not exist</string>
+			<string>用户不存在</string>
+			<string>用戶不存在</string>
+		</array>
+		<key>6007</key>
+		<array>
+			<string>Your account is not a glacier account, temporarily do not support password change service, if you have any questions, please contact Glacier customer service</string>
+			<string>您的账号不是冰川账号，暂不支持密码修改服务，如有疑问请联系冰川客服</string>
+			<string>您的帳號不是冰川帳號，暫不支持密碼修改服務，如有疑問請聯系冰川客服</string>
+		</array>
+		<key>6008</key>
+		<array>
+			<string>You set the same login password as the super password, setting the login password failed</string>
+			<string>您设置的登录密码与超级密码相同，设置登录密码失败</string>
+			<string>您設定的登入密碼與超級密碼相同，設定登入密碼失敗</string>
+		</array>
+		<key>5098</key>
+		<array>
+			<string>Failed to retrieve the password</string>
+			<string>找回密码失败</string>
+			<string>找回密碼失敗</string>
+		</array>
+		<key>4004</key>
+		<array>
+			<string>Abnormal order signature</string>
+			<string>订单签名异常</string>
+			<string>订单签名异常</string>
+		</array>
+		<key>3005</key>
+		<array>
+			<string>Incorrect password format</string>
+			<string>密码格式不正确</string>
+			<string>密碼格式不正確</string>
+		</array>
+		<key>5001</key>
+		<array>
+			<string>successfully</string>
+			<string>成功</string>
+			<string>成功</string>
+		</array>
+		<key>6009</key>
+		<array>
+			<string>The old password you entered is incorrect. Please re-enter it</string>
+			<string>您输入的短信密码不正确，请重新输入</string>
+			<string>您輸入的簡訊密碼不正確，請重新輸入</string>
+		</array>
+		<key>6098</key>
+		<array>
+			<string>Setting password failed</string>
+			<string>设置密码失败</string>
+			<string>設置密碼失敗</string>
+		</array>
+		<key>9036</key>
+		<array>
+			<string>Real-name Certification</string>
+			<string>实名认证</string>
+			<string>實名認證</string>
+		</array>
+		<key>9037</key>
+		<array>
+			<string>Enter your real name please</string>
+			<string>请输入真实姓名</string>
+			<string>請輸入真實姓名</string>
+		</array>
+		<key>9038</key>
+		<array>
+			<string>Enter the ID card No. please</string>
+			<string>请输入身份证号</string>
+			<string>請輸入身份證號</string>
+		</array>
+		<key>9039</key>
+		<array>
+			<string>Enter a valid ID card No. please</string>
+			<string>请输入有效身份证号码</string>
+			<string>請輸入有效身份證號碼</string>
+		</array>
+		<key>7001</key>
+		<array>
+			<string>Real name certification success</string>
+			<string>实名认证成功</string>
+			<string>實名認證成功</string>
+		</array>
+		<key>7004</key>
+		<array>
+			<string>ID card No. format is incorrect</string>
+			<string>身份证号码格式不正确</string>
+			<string>身份證號碼格式不正確</string>
+		</array>
+		<key>7006</key>
+		<array>
+			<string>You have completed the submission of real-name certification information</string>
+			<string>您已经完成了实名认证资料的提交</string>
+			<string>您已經完成了實名認證資料的提交</string>
+		</array>
+		<key>7007</key>
+		<array>
+			<string>Your surname does not exist in the system, please contact the official customer service</string>
+			<string>您的姓氏不存在系统中，请联系官方客服</string>
+			<string>您的姓氏不存在系統中，請聯系官方客服</string>
+		</array>
+		<key>7008</key>
+		<array>
+			<string>Your age is not suitable for registration</string>
+			<string>您的年龄不太适合注册</string>
+			<string>您的年齡不太適合注册</string>
+		</array>
+		<key>7009</key>
+		<array>
+			<string>Traditional names in your name, please use simplified characters</string>
+			<string>您的姓名中有繁体字，请使用简体字</string>
+			<string>您的姓名中有正體字，請使用簡體字</string>
+		</array>
+		<key>7010</key>
+		<array>
+			<string>Your name is not in the font, please contact customer service processing</string>
+			<string>您的姓名不在字库中，请联系客服处理</string>
+			<string>您的姓名不在字形檔中，請聯系客服處理</string>
+		</array>
+		<key>7011</key>
+		<array>
+			<string>Invalid ID card No.</string>
+			<string>身份证号无效</string>
+			<string>身份證號無效</string>
+		</array>
+		<key>7012</key>
+		<array>
+			<string>ID card name is incorrect</string>
+			<string>身份证姓名不正确</string>
+			<string>身份證姓名不正確</string>
+		</array>
+		<key>7098</key>
+		<array>
+			<string>Real name authentication failed</string>
+			<string>实名认证失败</string>
+			<string>實名認證失敗</string>
+		</array>
+		<key>8001</key>
+		<array>
+			<string>Sorry, your recharge is abnormal and may not be available immediately. Please wait for the background to be processed automatically. If you have not received the account within 24 hours, please contact customer service.</string>
+			<string>对不起，您的充值出现异常，可能无法立即到账，请等待后台自动处理，如果24小时内未到账，请联系客服处理。</string>
+			<string>對不起，您的充值出現異常，可能無法立即到賬，請等待後臺自動處理，如果24小時內未到賬，請聯系客服處理。</string>
+		</array>
+		<key>8004</key>
+		<array>
+			<string>Not purchased successfully, please try again.</string>
+			<string>未购买成功，请重试。</string>
+			<string>未購買成功，請重試。</string>
+		</array>
+		<key>8005</key>
+		<array>
+			<string>Can not buy, try again later.</string>
+			<string>不能购买，稍后重试。</string>
+			<string>不能購買，稍後重試。</string>
+		</array>
+		<key>8006</key>
+		<array>
+			<string>The current product is not available, please select another item.</string>
+			<string>当前商品不可用，请选择其它商品。</string>
+			<string>當前商品不可用，請選擇其它商品。</string>
+		</array>
+		<key>8007</key>
+		<array>
+			<string>The current Apple account cannot be paid and will be retried later.</string>
+			<string>当前苹果账号无法支付，稍后重试。</string>
+			<string>當前蘋果帳號無法支付，稍後重試。</string>
+		</array>
+		<key>9042</key>
+		<array>
+			<string>Set login password</string>
+			<string>设置登录密码</string>
+			<string>設定登入密碼</string>
+		</array>
+		<key>9043</key>
+		<array>
+			<string>Next step</string>
+			<string>下一步</string>
+			<string>下一步</string>
+		</array>
+		<key>9044</key>
+		<array>
+			<string>Please reconfirm the password</string>
+			<string>请再次输入密码</string>
+			<string>請再次輸入密碼</string>
+		</array>
+		<key>7096</key>
+		<array>
+			<string>Verification failure</string>
+			<string>验证失败</string>
+			<string>驗證失敗</string>
+		</array>
+		<key>4005</key>
+		<array>
+			<string>The request is frequent. Please try again later</string>
+			<string>请求频繁，请稍后再试</string>
+			<string>請求頻繁，請稍後再試</string>
+		</array>
+		<key>7095</key>
+		<array>
+			<string>The username is not registered</string>
+			<string>用户名已存在不可注册</string>
+			<string>用戶名已存在不可注册</string>
+		</array>
+		<key>9045</key>
+		<array>
+			<string>email/user name (4~30 characters)</string>
+			<string>邮箱/用户名(4~30字符)</string>
+			<string>郵箱/用戶名（4~30字元）</string>
+		</array>
+		<key>9046</key>
+		<array>
+			<string>Please input Username</string>
+			<string>请输入账号</string>
+			<string>請輸入帳號</string>
+		</array>
+		<key>1104</key>
+		<array>
+			<string>User Login</string>
+			<string>用户登录</string>
+			<string>用戶登錄</string>
+		</array>
+		<key>9047</key>
+		<array>
+			<string>Next time</string>
+			<string>下次再说</string>
+			<string>下次再說</string>
+		</array>
+		<key>9049</key>
+		<array>
+			<string>Delete Account</string>
+			<string>删除账号</string>
+			<string>删除帳號</string>
+		</array>
+		<key>9050</key>
+		<array>
+			<string>Confirm deletion of account information?</string>
+			<string>确认删除账号信息吗？</string>
+			<string>確認删除帳號資訊嗎？</string>
+		</array>
+		<key>9051</key>
+		<array>
+			<string>cancel</string>
+			<string>取消</string>
+			<string>取消</string>
+		</array>
+		<key>9052</key>
+		<array>
+			<string>The account does not have a mobile phone or email, and it cannot be retrieved here. Please go to the Expeditions official website to contact customer service.</string>
+			<string>该账号没有绑定手机和邮箱，无法在此找回。请前往手游官网联系客服处理。</string>
+			<string>該帳號沒有綁定手機和郵箱，無法在此找回。請前往遠征手遊官網聯系客服處理。</string>
+		</array>
+		<key>9053</key>
+		<array>
+			<string>Tourists are landing game......</string>
+			<string>游客正在登录游戏......</string>
+			<string>遊客正在登入遊戲......</string>
+		</array>
+		<key>9054</key>
+		<array>
+			<string>Tourists can not enjoy the security services we provide when they log in. In order to ensure the security of your account and funds, we suggest you bind to a third-party account.</string>
+			<string>游客登录无法享受我们提供的安全保障服务，为保证您的账号和资金安全，建议您绑定第三方账号。</string>
+			<string>遊客登入無法享受我們提供的安全保障服務。為保證您的账号和資金安全，建議您綁定第三方账号。</string>
+		</array>
+		<key>8002</key>
+		<array>
+			<string>Failed purchase</string>
+			<string>购买失败</string>
+			<string>購買失敗</string>
+		</array>
+		<key>8003</key>
+		<array>
+			<string>Cancel purchase</string>
+			<string>取消购买</string>
+			<string>取消購買</string>
+		</array>
+		<key>8008</key>
+		<array>
+			<string>There is an unknown problem with your IOS system and you cannot pay. Please call 400-666-8800 apple&apos;s official customer service hotline to provide you with a professional solution.</string>
+			<string>您的IOS系统存在未知问题，无法付费，请拔打 400-666-8800 苹果官方客服热线，为您提供专业的解决方案。</string>
+			<string>您的IOS系统存在未知问题，无法付费，请拔打 400-666-8800 苹果官方客服热线，为您提供专业的解决方案。</string>
+		</array>
+		<key>8009</key>
+		<array>
+			<string>Apple account can not be paid now, please change an apple account.</string>
+			<string>当前苹果账号无法支付，请换一个苹果账号。</string>
+			<string>當前蘋果帳號無法支付，請換一個蘋果帳號。</string>
+		</array>
+		<key>8010</key>
+		<array>
+			<string>The device cannot connect to the network</string>
+			<string>该设备无法连接到网络</string>
+			<string>該設備無法連接到網絡</string>
+		</array>
+		<key>8011</key>
+		<array>
+			<string>Order failed, please try again later</string>
+			<string>下单失败，请稍后重试</string>
+			<string>下單失敗，請稍後重試</string>
+		</array>
+		<key>8012</key>
+		<array>
+			<string>Unable to obtain product information, please check background configuration</string>
+			<string>无法获取产品信息，请检查后台配置</string>
+			<string>无法获取产品信息，请检查后台配置</string>
+		</array>
+		<key>8013</key>
+		<array>
+			<string>Your phone did not open the in-app payment</string>
+			<string>您的手机没有打开程序内付费购买</string>
+			<string>您的手机没有打开程序内付费购买</string>
+		</array>
+		<key>8014</key>
+		<array>
+			<string>The cached order is missing. Please contact customer service to make up the order</string>
+			<string>缓存订单丢失，请联系客服补单</string>
+			<string>缓存订单丢失，请联系客服补单</string>
+		</array>
+		<key>8015</key>
+		<array>
+			<string>Single interface network error</string>
+			<string>下单接口网络错误</string>
+			<string>下单接口网络错误</string>
+		</array>
+	</dict>
+</dict>
+</plist>
