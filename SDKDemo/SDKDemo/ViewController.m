@@ -32,8 +32,8 @@
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(logTextInfo:) name:@"q1showLogInfoNoti" object:nil];
     
     [[SDK Instance] SetLog:YES];
-    [[SDK Instance] setRegion:region_ea]; // 2107  904EF938-6B93-1CC8-10DD-8CA5367AB99A
-    [[SDK Instance] SDKInit:self APPID:@"2118" APPKEY:@"j9a9e16f68374dddabcf345e6f1bb82a"];
+    [[SDK Instance] setRegion:region_ea];
+    [[SDK Instance] SDKInit:self APPID:@"your appid" APPKEY:@"your appkey"];
 }
 
 #pragma mark - Login&Bind
